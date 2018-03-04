@@ -15,7 +15,7 @@ cd nombre-de-tu-proyecto
 npm start
 ```
 
-2. Después se identifica los componentes, en el presente proyecto se identificó 3 el header, el main y el aside como se puede ver en la siguiente imagen.
+2. Después se identifica los componentes, en el presente proyecto se identificó 4; el app, el header, el main y el aside como se puede ver en la siguiente imagen.
 
 ![Sin titulo](public/assets/docs/componentes.png)
 
