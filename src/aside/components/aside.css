@@ -1,0 +1,20 @@
+tbody {
+  text-align: justify
+}
+
+.summary-table {
+  background: #eeeeee;
+  border: 1px solid #A2A9B1;
+  font-size: 14px;
+  margin: 2vh;
+  padding: 5px;
+  text-align: center;
+}
+
+.summary-table thead {
+  background: #B0C4DE;
+}
+
+tr:first-child {
+  text-align: center
+}
